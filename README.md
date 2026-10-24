@@ -248,7 +248,7 @@ X_test_scaled
 
 
 ridge_model = Ridge()
-
+ 
 ridge_model.fit(
 X_train_scaled,
 y_train
